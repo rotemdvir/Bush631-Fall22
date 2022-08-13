@@ -1,8 +1,14 @@
-## Bush 631 - Quantitative Methods
+## Quantitative Methods for Public Management
 
-You can use the [editor on GitHub](https://github.com/rotemdvir/Bush631-Fall22/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Lecturer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Dr. Rotem Dvir** 
+
+Email: [rdvir@tamu.edu](rdvir@tamu.edu). 
+
+Website: [https://rotemdvir.wixsite.com/mysite](https://rotemdvir.wixsite.com/mysite)
+
+## Course Description
 
 ### Markdown
 
