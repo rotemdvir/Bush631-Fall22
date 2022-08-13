@@ -1,4 +1,4 @@
-title : Course Site for Bush 631 -- Fall 2022
+title : Bush 631 -- Fall 2022
 logo: /assets/hex.png
 author :
   name : Rotem Dvir
@@ -8,5 +8,6 @@ author :
   feedburner : nil
 
 markdown: kramdown
+google_analytics:
 
 theme: jekyll-theme-minimal
