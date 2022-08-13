@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bush 631 - Quantitative Methods
 
 You can use the [editor on GitHub](https://github.com/rotemdvir/Bush631-Fall22/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
