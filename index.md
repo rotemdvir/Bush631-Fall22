@@ -4,7 +4,7 @@
 
 **Dr. Rotem Dvir** 
 
-![MyLastJob](/assets/dive.jpg =100x100)
+<img src="/assets/dive.jpg" width="100" height="100">
 
 Email: [rdvir@tamu.edu](rdvir@tamu.edu). 
 
