@@ -18,7 +18,10 @@ The course integrates discussions about research design and data analysis with t
 
 **Textbook**: Imai, Kosuke. (2017). *Quantitative Social Science: An Introduction*.  
 
-**Syllabus**: PDF version, html version.
+**Syllabus**:  
+
+  - [Online](/assets/Syl_Fall22.html).
+  - PDF 
 
 **Tasks and Assignments**
 
