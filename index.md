@@ -4,7 +4,7 @@
 
 **Dr. Rotem Dvir** 
 
-< img src="/assets/dive.jpg" width="200" height="180"/>
+< img src="/assets/dive.jpg">
 
 Email: [rdvir@tamu.edu](rdvir@tamu.edu). 
 
