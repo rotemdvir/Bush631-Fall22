@@ -4,8 +4,6 @@
 
 **Dr. Rotem Dvir** 
 
-<img src="/assets/dive.jpg">
-
 Email: [rdvir@tamu.edu](rdvir@tamu.edu). 
 
 Website: [https://rotemdvir.wixsite.com/mysite](https://rotemdvir.wixsite.com/mysite)
