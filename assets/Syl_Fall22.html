@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.0.36">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Dr.&nbsp;Rotem Dvir">
+
+<title>Bush 631 - Quantitative Methods</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+span.underline{text-decoration: underline;}
+div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+</style>
+
+
+<script src="Syl_Fall22_files/libs/clipboard/clipboard.min.js"></script>
+<script src="Syl_Fall22_files/libs/quarto-html/quarto.js"></script>
+<script src="Syl_Fall22_files/libs/quarto-html/popper.min.js"></script>
+<script src="Syl_Fall22_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="Syl_Fall22_files/libs/quarto-html/anchor.min.js"></script>
+<link href="Syl_Fall22_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="Syl_Fall22_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="Syl_Fall22_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="Syl_Fall22_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="Syl_Fall22_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+
+
+</head>
+
+<body class="fullcontent">
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Bush 631 - Quantitative Methods</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Dr.&nbsp;Rotem Dvir </p>
+          </div>
+  </div>
+    
+    
+  </div>
+  
+
+</header>
+
+<section id="course-description" class="level1">
+<h1>Course Description</h1>
+<p>This is a graduate course in quantitative social science research methods. We will learn about various methods to design a research and use quantitative data to tackle a variety of questions in politics as a whole, and international affairs in particular. For example, how to predict election outcomes? What factors drive the onset of wars? What is the likelihood of a successful sanctions regime? Which type of leaders are more prone to concede in disputes? and how public opinion shape the decision to enter negotiations? You will obtain knowledge that is useful beyond academia. Many private companies and non-profits have invested heavily in data science techniques to learn about their users, platforms, markets, and programs. Data scientists at these institutions are essentially applied social scientists and employ many of the same techniques you will learn in this course.</p>
+<p>This course will cover the tools and techniques of quality research design and the introductory statistical skills that are designed to give you an understanding of the appropriate uses (and mis-uses) of quantitative research tools. The goal is to provide you with the capability to understand, explain, and perform social science research, with a special focus on data analysis and causal reasoning. You will be able to read and understand how quantitative research methods are used in the social sciences. In addition, you will have a foot in the door of the data science world - this course will help you become proficient in the use of statistical software to manage and analyze data. The skills of collecting and analyzing data in a sophisticated manner has become crucial for the modern job market across industries. Finally, you will obtain data literacy that will help you become a critical consumer of evidence and information.</p>
+</section>
+<section id="course-objectives" class="level1">
+<h1>Course Objectives</h1>
+<ol type="1">
+<li><p>Identify, understand and assess research designs, and their fit to the study of research questions in social sciences and international affairs.</p></li>
+<li><p>Discuss methods of data collection (designing surveys and survey questions, determining sampling and sample size, etc.)</p></li>
+<li><p>Develop data analysis skills including data management, exploration using descriptive statistics, generating and testing hypotheses using basic inferential statistics (by applying bivariate and multivariate models), as well as visualizing important findings.</p></li>
+<li><p>Develop analytic skills to assess research designs that help understand events and processes in international affairs. Identify problems in applying quantitative data in the public realm.</p></li>
+<li><p>Prepare written products for relevant professional audiences. Specifically, students will learn how to prepare written products such as executive summaries or reports, as well as visual presentations of their work.</p></li>
+</ol>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    setTimeout(function() {
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      let href = ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
+      });
+      return popup.innerHTML;
+    });
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>
