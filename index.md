@@ -34,6 +34,6 @@ The course integrates discussions about research design and data analysis with t
 
 ### Course Schedule and Content
 
-# Week 1
+## Week 1
 
 
