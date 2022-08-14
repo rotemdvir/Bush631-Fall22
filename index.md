@@ -4,7 +4,7 @@
 
 **Dr. Rotem Dvir** 
 
-![]("/assets/dive.jpg")
+![](/assets/dive.jpg)
 
 Email: [rdvir@tamu.edu](rdvir@tamu.edu). 
 
