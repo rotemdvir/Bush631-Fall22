@@ -20,8 +20,8 @@ The course integrates discussions about research design and data analysis with t
 
 **Syllabus**:  
 
-  - [html](/assets/Syl_Fall22.html) version: more interactive and allows you to read the sections using separate tabs.
-  - PDF version: the classic approach.
+  - [html version](/assets/Syl_Fall22.html): more interactive and allows you to read the sections using separate tabs.
+  - [PDF version](/assets/Bush_Syllabus2022.pdf): the classic approach to course syllabus.
 
 **Tasks and Assignments**  
 
