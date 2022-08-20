@@ -2,7 +2,7 @@
 
 ### Lecturer
 
-**Dr. Rotem Dvir** 
+**Dr. Rotem Dvir** (Yes - I used to be a diving instructor...:)  
 
 ![](/assets/dive.jpg)
 
