@@ -11,21 +11,21 @@ Email: [rdvir@tamu.edu](rdvir@tamu.edu).
 Website: [https://rotemdvir.wixsite.com/mysite](https://rotemdvir.wixsite.com/mysite)
 
 ## Course Description
-This is a graduate course in quantitative social science research methods that covers the tools and techniques of quality research design and an introduction to basic statistical skills to conduct research in the social sciences. We will discuss multiple methods to design a research and use quantitative data to tackle a variety of questions in politics as a whole, and international affairs in particular. For example, What is the best way to predict election outcomes? What factors drive the onset of wars? What is the likelihood of a successful sanctions regime?  
+This is a graduate course in quantitative social science research methods. We will learn how to construct research designs and use quantitative data to tackle a variety of questions in politics as a whole, and international affairs in particular. For example, What is the best way to predict election outcomes? What factors drive the onset of wars? What is the likelihood of a successful sanctions regime? In addition, some class sessions will offer an introduction to basic statistical skills to conduct research in the social sciences.  
 The course integrates discussions about research design and data analysis with the focus on causal reasoning. It also emphasizes learning and practicing the skills to become proficient in the use of statistical software to manage and analyze data. Students submit tasks in which they design research relevant to their field of interest, practice programming, and prepare a final project that combines data analysis with policy relevance into a data-oriented infographic as well as a professional document📃.
 
 ## Course Material
 
-**Textbook**: Imai, Kosuke. (2017). *Quantitative Social Science: An Introduction*.  
+**Textbook**: Imai, Kosuke. (2017). [Quantitative Social Science: An Introduction](https://qss.princeton.press).    
 
 **Syllabus**:  
 
-  - [html](/assets/Syl_Fall22.html) version that is more interactive and allows you to read the sections using separate tabs.
-  - PDF version. 
+  - [html](/assets/Syl_Fall22.html) version: more interactive and allows you to read the sections using separate tabs.
+  - PDF version: the classic approach.
 
 **Tasks and Assignments**  
 
-  - This section will include links to instructions and rubric documents to our course assignments.
+  - This section will include links to the differnt assignments instructions and relevant rubric documents.
 
 
 ### Additional Resources
