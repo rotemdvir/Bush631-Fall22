@@ -25,7 +25,7 @@ The course integrates discussions about research design and data analysis with t
 
 **Tasks and Assignments**  
 
-  - This section will include links to the differnt assignments instructions and relevant rubric documents.
+  - Swirl HW assignments: [Instructions](/assets/Tasks/Swirl.pdf).
 
 
 ### Additional Resources
