@@ -37,6 +37,11 @@ The course integrates discussions about research design and data analysis with t
 
 ## Course Schedule and Content
 
-### Week 1 (08.30.2022)
+### Week 1 (08.30.2022)  
+
+  - Required Reading: QSS, Ch. 1 (pp. 1-31).
+  - Slides: [QSS & Intro to R](/assets/Week1/wk1_slides.pdf).
+  - R code: [Week1](/assets/Week1/Code_week1.R).
+  - Data: [Ags](/assets/Week1/ags.xlsx).
 
 
