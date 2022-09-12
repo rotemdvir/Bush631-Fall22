@@ -27,7 +27,7 @@ The course integrates discussions about research design and data analysis with t
 
   - Swirl HW assignments: [Instructions](/assets/Tasks/Swirl.pdf).
   - R Markdown document: [Instructions](/assets/Tasks/Markdown_Inst.pdf).
-  - R Markdown template: [Instrcuctions](/assets/Tasks/MarkdownTemp_Ins.pdf).
+  - R Markdown template: [Instructions](/assets/Tasks/MarkdownTemp_Ins.pdf).
   - R Markdown template: [rmd file](/assets/Tasks/rMarkdown_temp2022.rmd).  
 
 
