@@ -1,0 +1,49 @@
+---
+title: "Documents with R"
+output:
+  pdf_document: default
+author: Your Name
+date: "`r Sys.Date()`"
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+# Upload any required package in this chunk
+library(readxl)
+library(tidyverse)
+library(haven)
+
+# Upload data
+
+```
+
+## Enter your section title
+
+This is an R Markdown document.  
+In this space you can add any text you want.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+\vspace{2em}
+
+```{r, echo=TRUE, include=TRUE}
+
+# Add R code here
+x <- c(1,2,3,4)
+x
+
+y <- sum(x)
+y
+```
+
+Add more text here.  
+Use embedded R code to add a figure into your document:
+
+\vspace{1em}
+```{r, echo=TRUE, include=TRUE, fig.align='center', out.width="85%"}
+
+# Add R code for figures here
+```
+
+
+
