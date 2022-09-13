@@ -55,4 +55,12 @@ The course integrates discussions about research design and data analysis with t
   - R code: [Week2](/assets/Week2/Code_week2.R).
   - Data: [Hawks-Doves Experiment](/assets/Week2/MattesWeeksEdit.dta).
 
+### Week 3 (09.13.2022)  
+
+  - Required Reading: QSS, Chapter 2 (pp. 54-74, sections 2.5-2.8).
+  - Recommended reading: Fuhrmann, M., and Michael Horowitz. (2015). ["When leaders matter: Rebel experience and nuclear proliferation.](https://doi.org/10.1086/678308) *The Journal of Politics*, 77(1), 72-87.
+  - Slides
+  - R code:
+  - Data:
+
 
