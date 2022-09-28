@@ -73,7 +73,19 @@ The course integrates discussions about research design and data analysis with t
   - R code: [Week4](/assets/Week4/Code_week4.R).
   - Data: [Terror Survey](assets/Week4/Bush_TerrorSurvey.csv).
   - Data: [War Ethics](/assets/Week4/WarEthics.dta).
-  - Data: [Afghan Villages](/assets/Week4/afghan-village.csv).
+  - Data: [Afghan Villages](/assets/Week4/afghan-village.csv).  
+
+### Week 5 (09.27.2022)  
+
+  - Required Reading: QSS, Chapter 3 (pp. 96-122, sections 3.5-3.8); Chapter 4 (pp. 123-139, section 4.1).
+  - Recommended reading: Huff, C., and Joshua Kertzer. (2018). ["How the public defines terrorism."](https://doi.org/10.1111/ajps.12329) *American Journal of Political Science*, 62(1), 55-71.
+  - Slides: [Measurement vol. II & Prediction Intro](/assets/Week5/wk5_slides.pdf).
+  - R Code: [Week5](/assets/Week5/Code_week5b.R).
+  - Data: [Congress Voting](/assets/Week5/congress.csv).
+  - Data: [UN Voting](/assets/Week5/unvoting.csv).
+  - Data: [Military Spending I](/assets/Week5/mil_exp.xlsx).
+  - Data: [Military Spending II](/assets/Week5/mil_exp2.xlsx).
+
 
 
 
