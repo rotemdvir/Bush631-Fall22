@@ -29,7 +29,7 @@ The course integrates discussions about research design and data analysis with t
   - R Markdown document: [Instructions](/assets/Tasks/Markdown_Inst.pdf).
   - R Markdown template: [Instructions](/assets/Tasks/MarkdownTemp_Ins.pdf).
   - R Markdown template: [Rmd file](/assets/Tasks/rMarkdown_temp2022.Rmd).
-  - Class Task 1: [BAAD Data](/assets/Tasks/Data_ClassTask1.dta).  
+  - Class Tasks: [BAAD Data](/assets/Tasks/Data_ClassTask1.dta).  
 
 
 ### Additional Resources
@@ -85,6 +85,14 @@ The course integrates discussions about research design and data analysis with t
   - Data: [UN Voting](/assets/Week5/unvoting.csv).
   - Data: [Military Spending I](/assets/Week5/mil_exp.xlsx).
   - Data: [Military Spending II](/assets/Week5/mil_exp2.xlsx).
+
+### Week 6 (10.04.2022)  
+
+  - Required Reading: QSS, Chapter 4 (pp. 139-161, section 4.2).
+  - Recommended reading:
+  - Slides:
+  - R Code:
+  - Data:
 
 
 
