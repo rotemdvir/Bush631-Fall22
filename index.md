@@ -89,10 +89,13 @@ The course integrates discussions about research design and data analysis with t
 ### Week 6 (10.04.2022)  
 
   - Required Reading: QSS, Chapter 4 (pp. 139-161, section 4.2).
-  - Recommended reading:
+  - Recommended reading: Doces, J. and Magee, C. (2015). ["Trade and Democracy: A Factor-Based Approach."](https://doi.org/10.1080/03050629.2015.984065) *International Interactions*, 41,2: 407-425.
   - Slides: [Prediction vol. II](/assets/Week6/wk6_deck.pdf).
   - R Code:[Week6](/assets/Week6/Code_week6b.R).
-  - Data:
+  - Data: [Face](/assets/Week6/face.csv).
+  - Data: [Health](/assets/Week6/health.csv).
+  - Data: [Trade](/assets/Week6/doces_magee_data.dta).
+  - Data: [FloridaVotes](/assets/Week6/florida.csv).
 
 
 
