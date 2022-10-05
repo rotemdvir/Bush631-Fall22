@@ -90,8 +90,8 @@ The course integrates discussions about research design and data analysis with t
 
   - Required Reading: QSS, Chapter 4 (pp. 139-161, section 4.2).
   - Recommended reading:
-  - Slides:
-  - R Code:
+  - Slides: [Prediction vol. II](/assets/Week6/wk6_deck.pdf).
+  - R Code:[Week6](/assets/Week6/Code_week6b.R).
   - Data:
 
 
