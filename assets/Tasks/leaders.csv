@@ -1,0 +1,251 @@
+"","year","country","leadername","age","politybefore","polityafter","interwarbefore","interwarafter","civilwarbefore","civilwarafter","result","randomvar"
+"1",1929,"Afghanistan","Habibullah Ghazi",39,-6,-6,0,0,1,0,"not wounded",-2.85366426657164
+"2",1933,"Afghanistan","Nadir Shah",53,-6,-7.33333333333333,0,0,0,0,"dies within a day after the attack",-0.800021096454445
+"3",1934,"Afghanistan","Hashim Khan",50,-6,-8,0,0,0,0,"survives, whether wounded unknown",-2.84142206769337
+"4",1924,"Albania","Zogu",29,0,-9,0,0,0,0,"wounded lightly",-2.01320242972501
+"5",1931,"Albania","Zogu",36,-9,-9,0,0,0,0,"not wounded",-1.00579573940003
+"6",1968,"Algeria","Boumedienne",41,-9,-9,0,0,0,0,"wounded lightly",-0.157847908897397
+"7",1992,"Algeria","Boudiaf",73,-2,-5.66666666666667,0,0,0,1,"dies within a day after the attack",-0.469106681297646
+"8",1908,"Argentina","Alcorta",48,1,1,0,0,0,0,"plot stopped",NA
+"9",1916,"Argentina","de la Plaza",76,2,2,0,0,0,0,"not wounded",1.27135454608099
+"10",1929,"Argentina","Irigoyen",77,2,-8,0,0,0,0,"not wounded",-0.320630465433923
+"11",1976,"Argentina","Videla",51,6,-9,0,0,0,0,"not wounded",-0.189691819406876
+"12",1977,"Argentina","Videla",52,1,-9,0,0,0,0,"not wounded",-0.734946846462998
+"13",1916,"Australia","Hughes",52,10,10,1,1,0,0,"survives, whether wounded unknown",-0.596805012939487
+"14",1975,"Australia","Fraser",45,10,10,1,0,0,0,"plot stopped",-0.490088477911215
+"15",1920,"Austria","Renner",50,0,8,1,0,0,0,"not wounded",-0.645382010656981
+"16",1924,"Austria","Seipel",48,8,8,0,0,0,0,"hospitalization but no permanent disability",-0.0399855168088295
+"17",1933,"Austria","Dollfuss",51,8,-9,0,0,0,1,"hospitalization but no permanent disability",0.226677944287179
+"18",1934,"Austria","Dollfuss",52,5,-9,0,0,0,0,"dies within a day after the attack",0.498002120856482
+"19",1902,"Belgium","Paul de Smet de Nayer",59,6,6,0,0,0,0,"not wounded",1.0497116559516
+"20",1965,"Bhutan","Wangchuk, Jigme Dorji",36,-8,-8,0,0,0,0,"not wounded",1.84546578729405
+"21",1945,"Bolivia","Villarroel",37,-5,-5,0,0,0,0,"not wounded",0.10985680245394
+"22",1946,"Bolivia","Gutierrez",62,-5,-5,0,0,0,0,"plot stopped",0.859907868950116
+"23",1964,"Bolivia","Barrientos Ortuna",45,-3,-4,0,0,0,0,"hospitalization but no permanent disability",-0.106848017808309
+"24",1965,"Bolivia","Barrientos Ortuna",46,-3.33333333333333,-4,0,0,0,0,"hospitalization but no permanent disability",1.68824789761513
+"25",1897,"Brazil","de Moraes Barros",56,-3,-3,0,0,1,0,"not wounded",1.26271824165573
+"26",1994,"Burundi","Ntarymira",39,-3.33333333333333,-3.33333333333333,0,0,1,1,"dies within a day after the attack",-0.943185067663899
+"27",1915,"Bulgaria","Ferdinand I",54,-9,-5.33333333333333,1,1,0,0,"survives, whether wounded unknown",1.26420474300982
+"28",1925,"Bulgaria","Boris III",31,-3,-3,0,0,1,0,"wounded lightly",0.287906886106244
+"29",1943,"Bulgaria","Boris III",49,-10,-4,1,1,0,0,"dies between a day and a week",1.08700022529954
+"30",1959,"Cambodia","Sihanouk",37,-9,-9,0,0,0,0,"not wounded",0.696624782431677
+"31",1973,"Cambodia","Lon Nol",60,-6,-4,1,1,1,1,"not wounded",-1.545520870607
+"32",1998,"Cambodia","Hun Sen",46,-1.66666666666667,2,0,0,1,0,"not wounded",0.222515115846546
+"33",1995,"Canada","Chretien",56,10,10,0,0,0,0,"plot stopped",-1.59698478779239
+"34",2000,"Ivory Coast","Guei",59,-4.33333333333333,1.33333333333333,0,0,0,0,"not wounded",0.879251603518967
+"35",1976,"Chad","Malloum",44,-8.33333333333333,-3.33333333333333,0,0,0,0,"not wounded",1.29496144232207
+"36",1899,"Chile","F. Errazuriz Echaurren",49,3,3,0,0,0,0,"plot stopped",-1.78456030842134
+"37",1929,"Chile","Ibanez Campo",52,-2,-2,0,0,0,0,"plot stopped",-0.0522220854695343
+"38",1930,"Chile","Ibanez del Campo",53,-2,-2,0,0,0,0,"plot stopped",0.341138860075868
+"39",1986,"Chile","Pinochet",71,-6,0.333333333333333,0,0,0,0,"wounded lightly",0.593650992575662
+"40",1910,"China","Zaifeng",28,-6,-0.666666666666667,0,0,0,1,"survives, whether wounded unknown",0.971744488035857
+"41",1929,"China","Chiang Kai-shek",43,-5,-5,0,1,1,1,"plot stopped",0.172963587697852
+"42",1931,"China","Chiang Kai-shek",45,-5,-5,1,1,1,1,"not wounded",0.43181362550523
+"43",1961,"China","Mao Tse-Tung",68,-8,-8,0,1,1,0,"survives, whether wounded unknown",-1.13921317099106
+"44",1906,"Colombia","Reyes Prieto",57,-3.33333333333333,-5,0,0,1,0,"not wounded",-2.18378729955354
+"45",1977,"Congo Brazzaville","Ngouabi",39,-7,-7.66666666666667,0,0,0,0,"dies within a day after the attack",-0.122198558622872
+"46",1944,"Costa Rica","Picado Michalski",44,10,10,0,0,0,0,"survives, whether wounded unknown",0.22166271260863
+"47",1931,"Cuba","Machado Morales",60,1,2.33333333333333,0,0,0,0,"survives, whether wounded unknown",1.15179323537627
+"48",1934,"Cuba","Mendieta",61,1.66666666666667,3,0,0,0,0,"wounded lightly",0.466949835687806
+"49",1970,"Cyprus","Makarios",57,4.66666666666667,7,0,0,0,0,"not wounded",2.80349686343915
+"50",1954,"Czechoslovakia","Zapotocky",70,-7,-7,0,0,0,0,"wounded lightly",-1.02273394300363
+"51",1899,"Dominican Rep","Heureaux",54,-3,-3,0,0,0,0,"dies within a day after the attack",-0.654970564439406
+"52",1911,"Dominican Rep","Caceres",45,-3,-3,0,0,0,0,"dies within a day after the attack",-0.795979574847085
+"53",1961,"Dominican Rep","Rafel Trujillo",70,-9,2.66666666666667,0,0,0,0,"dies within a day after the attack",0.611901457027597
+"54",2001,"Congo Kinshasa","Laurent Kabila",62,0,0,0,0,1,0,"dies within a day after the attack",-0.712714694450237
+"55",1886,"Ecuador","Caamano",49,-1,-1,0,0,0,0,"not wounded",-1.62019833060158
+"56",1949,"Ecuador","Plaza Lasso",43,0,2,0,0,0,0,"not wounded",-0.892522308679954
+"57",1938,"Egypt","Farouk",18,1,1,0,0,0,0,"not wounded",-2.31076861558871
+"58",1939,"Egypt","Farouk",19,1,1,0,0,0,0,"plot stopped",1.8306762080536
+"59",1974,"Egypt","Sadat",56,-7,-6.33333333333333,1,0,0,0,"not wounded",-2.3618200130462
+"60",1981,"Egypt","Sadat",63,-6,-6,0,0,0,0,"dies within a day after the attack",1.12194347642827
+"61",1995,"Egypt","Mubarak",66,-6,-6,0,0,0,0,"not wounded",1.28460942126478
+"62",1999,"Egypt","Mubarak",70,-6,-6,0,0,0,0,"wounded lightly",-0.772330281508645
+"63",1978,"Ethiopia","Mengistu Marriam",41,-7,-7,1,0,1,1,"wounded lightly",-0.562190967080723
+"64",1910,"France","Briand",48,8,8,0,0,1,1,"wounded lightly",-0.0529541333163863
+"65",1911,"France","Briand",49,8,8,0,1,1,0,"not wounded",0.638331191191213
+"66",1919,"France","Clemenceau",78,8,9,1,1,1,0,"hospitalization but no permanent disability",0.0453699728048228
+"67",1924,"France","Herriot",52,9,9,1,0,0,0,"not wounded",0.524383421253716
+"68",1932,"France","Herriot",60,9.66666666666667,10,0,0,0,0,"plot stopped",-0.347544222205111
+"69",1943,"France","Laval",60,-9,3.66666666666667,1,1,0,0,"wounded lightly",0.206378370413622
+"70",1961,"France","De Gaulle",71,5,5,0,0,0,0,"not wounded",-0.53901465369515
+"71",1962,"France","De Gaulle",72,5,5,0,0,0,0,"not wounded",-0.0666160024826118
+"72",1964,"France","De Gaulle",74,5,5,0,0,0,0,"plot stopped",0.0732346223109955
+"73",1965,"France","De Gaulle",75,5,5,0,0,0,0,"plot stopped",0.349014286664665
+"74",1963,"Ghana","Nkurmah",54,-8.33333333333333,-8.33333333333333,0,0,0,0,"wounded lightly",-1.78358241732831
+"75",1964,"Ghana","Nkurmah",55,-8.66666666666667,-7.66666666666667,0,0,0,0,"not wounded",1.01858381233294
+"76",1878,"Germany","Wilhelm I",81,-4,-4,0,0,0,0,"not wounded",-0.384182799417432
+"77",1939,"Germany","Hitler",50,-9,-9,0,1,1,0,"not wounded",1.18886530376508
+"78",1898,"Greece","George I",53,10,10,1,0,0,0,"not wounded",-1.89483193613818
+"79",1913,"Greece","George I",68,10,5.5,1,0,0,0,"dies within a day after the attack",0.948952375129721
+"80",1926,"Greece","Pangalos",48,-3.66666666666667,10,0,0,0,0,"plot stopped",2.00073373368286
+"81",1968,"Greece","Papadopoulos",49,0.333333333333333,-7,0,0,0,0,"not wounded",1.31435261619776
+"82",1995,"Georgia","Shevardnadze",67,4,5,0,0,1,0,"wounded lightly",-1.76991763916724
+"83",1998,"Georgia","Shevardnadze",70,5,5,0,0,0,0,"not wounded",2.23109655057658
+"84",1884,"Guatemala","Justo Rufino Barrios",49,2,2,0,1,0,0,"wounded lightly",-0.205382290976785
+"85",1886,"Guatemala","Barillas",41,2,2,1,0,0,0,"plot stopped",2.09856904888522
+"86",1898,"Guatemala","Reina Barrios",63,-1.33333333333333,-5.33333333333333,0,0,0,0,"dies, timing unknown",-0.861373368325134
+"87",1907,"Guatemala","Estrada-Cabrera",50,-9,-9,1,0,0,0,"not wounded",0.50425343326043
+"88",1908,"Guatemala","Estrada-Cabrera",51,-9,-9,1,0,0,0,"wounded lightly",0.135306884019285
+"89",1957,"Guatemala","Castillo Armas",43,-6,-5,0,0,1,0,"dies within a day after the attack",0.36766534631059
+"90",1996,"Guatemala","Arzu Yrigoyen",50,3,8,0,0,0,0,"not wounded",-0.598053165153671
+"91",1980,"Guinea","Toure",58,-9,-9,0,0,0,0,"not wounded",-0.702188262461239
+"92",1892,"Haiti","Hippolyte",65,-3,-3,0,0,0,0,"plot stopped",-1.75562751642451
+"93",1912,"Haiti","Leconte",58,-3,-3,0,0,0,0,"dies within a day after the attack",-0.627168559895619
+"94",1947,"Honduras","Carias Andino",71,-3,-3,0,0,0,0,"plot stopped",-1.45785391599898
+"95",1955,"India","Nehru",66,9,9,0,0,0,0,"plot stopped",-1.09340825804757
+"96",1980,"India","Gandhi, I.",63,8,8,0,0,0,0,"not wounded",1.08751317901605
+"97",1984,"India","Gandhi, I.",67,8,8,0,0,0,1,"dies within a day after the attack",-0.456152415068044
+"98",1986,"India","Gandhi, R.",42,8,8,0,0,1,1,"not wounded",-0.0840697186379174
+"99",1957,"Indonesia","Sukarno",56,0,-3.66666666666667,0,0,1,1,"not wounded",-0.242639704987347
+"100",1962,"Indonesia","Sukarno",61,-5,-5,0,0,1,0,"not wounded",0.521951802987797
+"101",1896,"Iran","Nasir Ad-Din",65,-10,-10,0,0,0,0,"dies within a day after the attack",1.46108740780454
+"102",1896,"Iran","Muzaffar ad-Din",43,-10,-10,0,0,0,0,"not wounded",0.169838465303172
+"103",1900,"Iran","Muzaffar ad-Din",47,-10,-10,0,0,0,0,"plot stopped",-0.181299517357306
+"104",1908,"Iran","Mohammed Ali Shah",36,-3.33333333333333,0,0,0,0,1,"not wounded",0.507098618742228
+"105",1949,"Iran","Mohammad Reza",30,-1,-1,0,0,0,0,"wounded lightly",2.42533489413232
+"106",1967,"Iran","Mohammad Reza",48,-10,-10,0,0,0,0,"not wounded",2.44570072391449
+"107",1959,"Iraq","Karrim Kassem",45,-4.33333333333333,-5,0,0,0,1,"hospitalization but no permanent disability",0.475804707096652
+"108",1982,"Iraq","Saddam Hussein",45,-9,-9,1,1,0,1,"not wounded",-1.5502265505321
+"109",1957,"Israel","Ben Gurion",71,10,10,1,0,0,0,"wounded lightly",-0.735400897527968
+"110",1995,"Israel","Rabin",73,9,9,0,0,0,0,"dies within a day after the attack",-0.746115959142199
+"111",1923,"Italy","Mussolini",40,-1.33333333333333,-5.66666666666667,0,0,0,0,"not wounded",-0.23410014334885
+"112",1924,"Italy","Mussolini",41,-2,-7,0,0,0,0,"survives, whether wounded unknown",-2.73548229435047
+"113",1925,"Italy","Mussolini",42,-3,-8,0,0,0,0,"plot stopped",-0.216050843799832
+"114",1926,"Italy","Mussolini",43,-4.33333333333333,-8.66666666666667,0,0,0,0,"hospitalization but no permanent disability",-1.68611468869503
+"115",1928,"Italy","Mussolini",45,-7,-9,0,0,0,0,"plot stopped",-0.414793862276074
+"116",1932,"Italy","Mussolini",49,-9,-9,0,1,0,0,"plot stopped",0.316563335813506
+"117",1949,"Jordan","Abdullah Al-Hussein",67,-10,-5,1,0,0,0,"plot stopped",-1.16790727404519
+"118",1951,"Jordan","Abdullah Al-Hussein",69,-10,-1,1,0,0,0,"dies within a day after the attack",-0.0241246431170457
+"119",1960,"Jordan","Hussein Ibn Talal El-Hashim",25,-9,-9,0,0,0,0,"not wounded",0.513834042057601
+"120",1970,"Jordan","Hussein Ibn Talal El-Hashim",35,-9,-9,1,1,0,0,"not wounded",-0.402902829693226
+"121",1972,"Jordan","Hussein Ibn Talal El-Hashim",37,-9,-9.66666666666667,0,1,1,0,"hospitalization but no permanent disability",0.701365480057117
+"122",1916,"Japan","Okuma",78,1,1,1,1,0,1,"not wounded",0.627986538420815
+"123",1920,"Japan","Hara, T.",64,1,1,1,0,1,0,"survives, whether wounded unknown",0.211882978558989
+"124",1921,"Japan","Hara, T.",65,1,1,1,0,1,0,"dies within a day after the attack",-0.112125521278237
+"125",1925,"Japan","Kato, Takaaki",65,1,1,0,0,0,1,"not wounded",0.287017641067021
+"126",1928,"Japan","Tanaka, G.",64,1,1,0,1,1,0,"plot stopped",0.089098716145453
+"127",1929,"Japan","Hamaguchi",59,1,1,0,1,1,0,"plot stopped",-0.674353121362687
+"128",1930,"Japan","Hamaguchi",60,1,1,0,1,1,0,"survives but wounded severely",-0.590322427456214
+"129",1932,"Japan","Inukai",77,1,1,1,1,0,0,"dies within a day after the attack",NA
+"130",1960,"Japan","Kishi",64,10,10,0,0,0,0,"wounded lightly",0.546244146867013
+"131",1963,"Japan","Ikeda",64,10,10,0,0,0,0,"survives, whether wounded unknown",0.34313973684433
+"132",1978,"Japan","Ohira",68,10,10,0,0,0,0,"plot stopped",0.583010045355426
+"133",1972,"Kenya","Kenyatta",81,-7,-7,0,0,0,0,"plot stopped",0.557451032110062
+"134",1985,"Kuwait","Jabir As-Sabah",59,-8,-10,0,0,0,0,"wounded lightly",0.992055851603534
+"135",1955,"Liberia","Tubman",60,-6,-6,0,0,0,0,"not wounded",-1.32647100539084
+"136",1956,"Lebanon","Chamoun",56,2,2,0,0,0,1,"plot stopped",-0.730500947600348
+"137",1978,"Libya","Qaddafi",36,-7,-7,0,1,0,0,"not wounded",0.615859436725332
+"138",1981,"Libya","Qaddafi",39,-7,-7,1,0,0,1,"wounded lightly",0.263927452592421
+"139",1984,"Libya","Qaddafi",42,-7,-7,0,0,1,1,"not wounded",0.20700989384286
+"140",1975,"Madagascar","Ratsimandrava",44,-3,-6,0,0,0,0,"dies, timing unknown",0.111277575583337
+"141",1890,"Mexico","Diaz",60,-9,-9,0,0,0,0,"not wounded",1.08131221559461
+"142",1897,"Mexico","Diaz",67,-9,-9,0,0,0,0,"not wounded",-0.798650614766767
+"143",1920,"Mexico","Carranza",61,-1,-1,0,0,1,1,"dies, timing unknown",2.02860293972996
+"144",1921,"Mexico","Obregon",31,-1,-1.66666666666667,0,0,1,1,"plot stopped",0.8099570157917
+"145",1925,"Mexico","Calles",48,-1.66666666666667,-3,0,0,1,1,"plot stopped",1.39083548911675
+"146",1927,"Mexico","Calles",50,-3,-4,0,0,1,1,"not wounded",-0.733313925536927
+"147",1929,"Mexico","Portes Gil",39,-3,-6,0,0,1,1,"not wounded",-1.24043425596335
+"148",1930,"Mexico","Ortiz Rubio",53,-3,-6,0,0,1,0,"hospitalization but no permanent disability",-0.892637394685038
+"149",1935,"Mexico","Cardenas",40,-6,-6,0,0,0,0,"plot stopped",-0.279168809840194
+"150",1944,"Mexico","Avila Camacho",47,-6,-6,0,0,0,0,"not wounded",0.519757346475669
+"151",1952,"Mexico","Aleman Valdes",49,-6,-6,0,0,0,0,"plot stopped",-2.3746879586475
+"152",1963,"Myanmar (Burma)","Ne Win",52,3.33333333333333,-7,0,0,0,0,"hospitalization but no permanent disability",-0.414218779764644
+"153",1962,"Nepal","Mahendra",42,-6,-9,0,0,0,0,"not wounded",-0.0512169287215907
+"154",2001,"Nepal","Birendra",55,5.66666666666667,-6,0,0,0,1,"dies within a day after the attack",-1.0313934549631
+"155",1954,"Nicaragua","Anastasio Somoza Garcia",58,-8,-8,0,0,0,0,"plot stopped",-0.351798829542669
+"156",1956,"Nicaragua","Anastasio Somoza Garcia",60,-8,-8,0,0,0,0,"dies between a week and a month",0.463562427252508
+"157",1959,"Nicaragua","Luis Somoza Debayle",37,-8,-8,0,0,0,0,"not wounded",1.35680309519802
+"158",1965,"Niger","Diori",49,-7,-7,0,0,0,0,"not wounded",-0.01256550254161
+"159",1987,"Netherlands","Lubbers",48,10,10,0,0,0,0,"not wounded",0.600898162610544
+"160",1966,"Oman","Sa`id ibn Taimur",56,-10,-10,0,0,0,0,"not wounded",0.0484708015743703
+"161",1951,"Pakistan","L. Khan",56,3.33333333333333,5,1,0,0,0,"dies within a day after the attack",0.893734645819871
+"162",1968,"Pakistan","Ayub Khan",61,1,0.333333333333333,1,1,0,1,"not wounded",-0.897627920015127
+"163",1988,"Pakistan","Zia",64,-4,8,0,0,0,0,"dies within a day after the attack",-1.12719000982529
+"164",1999,"Pakistan","Sharif",50,7.33333333333333,-5.66666666666667,0,0,0,0,"not wounded",-0.0644427625912423
+"165",1955,"Panama","Remon Cantero",47,-1,4,0,0,0,0,"dies within a day after the attack",0.694793397504197
+"166",1908,"Peru","Pardo y Barreda",44,2,2,0,0,0,0,"not wounded",0.971928254037294
+"167",1932,"Peru","Sanchez Cerro",43,-6,2,0,0,0,0,"hospitalization but no permanent disability",-1.54322637700298
+"168",1933,"Peru","Sanchez Cerro",44,-3,2,0,0,1,0,"dies within a day after the attack",1.0686998681057
+"169",1933,"Peru","Benavidez",57,-3,2,0,0,1,0,"plot stopped",-0.766568716305906
+"170",1986,"Peru","Garcia Perez",37,7,7,0,0,1,1,"not wounded",-0.352045912762789
+"171",1922,"Poland","Narutowicz",57,8,8,1,0,0,0,"dies within a day after the attack",-0.319148254373622
+"172",1924,"Poland","Wojciechowski",55,8,0.666666666666667,0,0,0,0,"not wounded",0.991001262056902
+"173",1893,"Portugal","Carlos I",30,-4,-4,0,0,0,0,"not wounded",0.261940879036683
+"174",1896,"Portugal","Carlos I",33,-4,-4,0,0,0,0,"not wounded",-0.0444158403417552
+"175",1908,"Portugal","Carlos I",45,-4.33333333333333,4.66666666666667,0,0,0,0,"dies within a day after the attack",0.641082159679447
+"176",1918,"Portugal","Paes",46,7,7,1,0,0,0,"dies within a day after the attack",-2.35014282673154
+"177",1937,"Portugal","Salazar",48,-9,-9,0,0,1,1,"not wounded",-0.847220411682296
+"178",1952,"Korea South","Rhee",77,-3,-4,1,1,0,0,"not wounded",-0.0479596302203513
+"179",1968,"Korea South","Hee Park",51,3,3,1,1,0,0,"not wounded",0.787078419590888
+"180",1974,"Korea South","Hee Park",57,-4.66666666666667,-8,1,0,0,0,"not wounded",-0.202917967149472
+"181",1979,"Korea South","Hee Park",62,-8,-6,0,0,0,0,"dies within a day after the attack",0.018113299988387
+"182",1983,"Korea South","Chun Doo Hwan",52,-6,-5,0,0,0,0,"not wounded",-0.463358035835294
+"183",1878,"Russia","Alexander II",60,-10,-10,1,0,0,0,"survives, whether wounded unknown",-1.03937515222925
+"184",1879,"Russia","Alexander II",61,-10,-10,1,0,0,0,"not wounded",-0.547446949598482
+"185",1880,"Russia","Alexander II",62,-10,-10,1,0,0,0,"not wounded",1.57328398328405
+"186",1881,"Russia","Alexander II",63,-10,-10,1,0,0,0,"dies within a day after the attack",-2.15249442754401
+"187",1886,"Russia","Alexander III",41,-10,-10,0,0,0,0,"survives, whether wounded unknown",0.589896817414923
+"188",1888,"Russia","Alexander III",43,-10,-10,0,0,0,0,"not wounded",-0.843992379868007
+"189",1889,"Russia","Alexander III",44,-10,-10,0,0,0,0,"survives, whether wounded unknown",0.394951180133377
+"190",1904,"Russia","Nicholas II",36,-10,-6.66666666666667,0,1,0,1,"plot stopped",0.317072885738645
+"191",1914,"Russia","Nicholas II",46,-6,-4.33333333333333,0,1,0,1,"not wounded",1.08481581539792
+"192",1918,"Russia","Lenin",48,-4.33333333333333,-1,1,1,1,1,"hospitalization but no permanent disability",-0.460532361773294
+"193",1962,"Vietnam South","Ngo Dinh Diem",61,-3,-3,0,1,1,1,"not wounded",-0.0132314385934721
+"194",1994,"Rwanda","Habyarimana",57,-6.66666666666667,-6,0,0,1,1,"dies within a day after the attack",0.977304880942178
+"195",1960,"South Africa","Verwoerd",59,4,4,0,0,0,0,"hospitalization but no permanent disability",-0.421227018501092
+"196",1966,"South Africa","Verwoerd",65,4,4,0,0,0,0,"dies within a day after the attack",-1.46884743243337
+"197",1913,"El Salvador","Araujo",48,-6,-6,0,0,0,0,"dies between a day and a week",-0.573490093069471
+"198",1935,"Saudi Arabia","Aziz",53,-10,-10,1,0,0,0,"not wounded",-0.313547622425385
+"199",1975,"Saudi Arabia","Faisal",70,-10,-10,1,0,0,0,"dies within a day after the attack",-1.68202016204993
+"200",1967,"Senegal","Senghor",61,-7,-7,0,0,0,0,"plot stopped",0.263108895014169
+"201",1969,"Somalia","Shermarke",50,7,-7,0,0,0,0,"dies within a day after the attack",-0.4804150941045
+"202",1897,"Spain","del Castillo",69,4.33333333333333,4.66666666666667,0,1,0,0,"dies within a day after the attack",0.489405384923508
+"203",1904,"Spain","Maura y Montaner",51,6,6,0,0,0,0,"wounded lightly",-1.56954168535104
+"204",1912,"Spain","Canalejas y Mendez",58,6,6,1,0,0,0,"dies within a day after the attack",-0.908444841698776
+"205",1921,"Spain","Dato y Iradier",65,6,-2.66666666666667,0,0,0,0,"dies within a day after the attack",-0.0271463037495466
+"206",1926,"Spain","de Rivera",56,-6.66666666666667,-6,0,0,0,0,"not wounded",-0.700866866717085
+"207",1959,"Sri Lanka","Bandaranaike, S.W.R.D.",60,7,7,0,0,0,0,"dies within a day after the attack",-1.07642426314735
+"208",1987,"Sri Lanka","Jayewardene",81,5,5,0,0,1,0,"not wounded",0.335177815724037
+"209",1993,"Sri Lanka","Premadasa",69,5,5,0,0,0,1,"dies within a day after the attack",-0.389428953158636
+"210",1999,"Sri Lanka","Kumaratunga",54,5,5.66666666666667,0,0,1,1,"hospitalization but no permanent disability",1.10084806227478
+"211",1970,"Sudan","Nimeiri",40,5.33333333333333,-7,0,0,1,1,"survives, whether wounded unknown",0.26850142281552
+"212",1986,"Sweden","Palme",59,10,10,0,0,0,0,"dies within a day after the attack",0.716677622239839
+"213",1973,"Syria","Al-Assad H.",43,-9,-9,0,0,1,1,"hospitalization but no permanent disability",2.00462735689595
+"214",1980,"Syria","Al-Assad H.",50,-9,-9,0,1,1,1,"not wounded",0.0551133389510283
+"215",1963,"Togo","Olympio",61,-6,-6,0,0,0,0,"dies within a day after the attack",1.51908202240398
+"216",1967,"Togo","Eyadema",53,-6,-7,0,0,0,0,"wounded lightly",-1.14964522151093
+"217",1905,"Turkey","Hamid II",63,-10,-8,0,0,1,0,"not wounded",0.344102096452263
+"218",1906,"Turkey","Hamid II",64,-10,-5,0,0,1,0,"hospitalization but no permanent disability",1.25839686341278
+"219",1964,"Turkey","Inonu",80,9,8,0,0,0,0,"not wounded",0.837219013160687
+"220",1975,"Turkey","Demirel",51,5.33333333333333,9,1,0,0,0,"wounded lightly",0.513094654986133
+"221",1988,"Turkey","Ozal",61,7,9,0,0,0,1,"wounded lightly",1.29808951388411
+"222",1969,"Uganda","Obote",44,-4,-7,0,0,1,0,"hospitalization but no permanent disability",NA
+"223",1975,"Uganda","Amin",50,-7,-7,0,1,0,0,"not wounded",-1.09945485115341
+"224",1976,"Uganda","Amin",51,-7,-7,0,1,0,0,"not wounded",0.396462866529289
+"225",1977,"Uganda","Amin",52,-7,-2,0,1,0,1,"plot stopped",-0.516675203299128
+"226",1984,"United Kingdom","Thatcher",59,10,10,1,0,0,0,"not wounded",0.76568867244538
+"227",1886,"Uruguay","Maximo Santos",39,-3,-3,0,0,0,0,"hospitalization but no permanent disability",-0.132271704397983
+"228",1897,"Uruguay","Juan Idiarte Borda",53,-3,-3,0,0,0,0,"dies within a day after the attack",0.669992042683008
+"229",1897,"Uruguay","Juan Lindolfo Cuestas",60,-3,-3,0,0,0,0,"plot stopped",0.146057641170718
+"230",1918,"Uruguay","Feliciano Viera",46,2,3,0,0,0,0,"not wounded",-1.70948043137825
+"231",1935,"Uruguay","Terra",62,2,0,0,0,0,0,"wounded lightly",0.280915988617807
+"232",1881,"United States","Garfield",50,10,10,0,0,0,0,"dies within a day after the attack",0.0172280948146101
+"233",1901,"United States","McKinley",58,10,10,1,0,0,0,"dies between a week and a month",-0.235669767953887
+"234",1933,"United States","Roosevelt, F.",51,10,10,0,0,0,0,"not wounded",1.47863400230426
+"235",1950,"United States","Truman",66,10,10,0,1,0,0,"not wounded",0.102994577514877
+"236",1963,"United States","Kennedy",46,10,10,0,1,1,1,"dies within a day after the attack",0.649588689097077
+"237",1972,"United States","Nixon",59,10,10,1,1,1,1,"plot stopped",0.104838436075517
+"238",1975,"United States","Ford",62,10,10,1,0,1,0,"not wounded",-1.29917235557455
+"239",1981,"United States","Reagan",70,10,10,0,0,0,0,"hospitalization but no permanent disability",-0.393221087089643
+"240",1999,"Uzbekistan","Karimov",61,-9,-9,0,0,0,0,"not wounded",-0.327069073211844
+"241",1900,"Venezuela","Cipriano Castro",42,-3,-3,0,0,1,1,"not wounded",-0.178053845427659
+"242",1931,"Venezuela","Gomez",74,-9,-9,0,0,0,0,"plot stopped",-1.01558509892918
+"243",1950,"Venezuela","Delgado Chalbaud",41,-3,-3,0,0,0,0,"dies within a day after the attack",1.10648747603176
+"244",1960,"Venezuela","Betancourt",52,3,6,0,0,0,0,"wounded lightly",0.342901356093135
+"245",1961,"Yemen North","Ibn Yahya Hamid",70,-6,0,0,0,0,1,"hospitalization but no permanent disability",1.49446994483257
+"246",1968,"Yemen North","Al-Iryani",51,-2,-3,0,0,1,1,"not wounded",-0.657842519917056
+"247",1977,"Yemen North","Al-Hamadi",34,-4,-6,0,0,0,0,"dies, timing unknown",-0.647190398694634
+"248",1977,"Yemen North","Al-Ghashmi",38,-4,-6,0,0,0,0,"plot stopped",0.437498590369459
+"249",1978,"Yemen North","Al-Ghashmi",39,-4.66666666666667,-6,0,0,0,0,"dies within a day after the attack",0.0737932815658806
+"250",1934,"Yugoslavia","Alexander",46,-10,-7.66666666666667,0,0,0,0,"dies within a day after the attack",-0.0231766987932043
