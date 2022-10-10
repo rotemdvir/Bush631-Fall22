@@ -29,7 +29,8 @@ The course integrates discussions about research design and data analysis with t
   - R Markdown document: [Instructions](/assets/Tasks/Markdown_Inst.pdf).
   - R Markdown template: [Instructions](/assets/Tasks/MarkdownTemp_Ins.pdf).
   - R Markdown template: [Rmd file](/assets/Tasks/rMarkdown_temp2022.Rmd).
-  - Class Tasks: [BAAD Data](/assets/Tasks/Data_ClassTask1.dta).  
+  - Class Tasks: [BAAD Data](/assets/Tasks/Data_ClassTask1.dta).
+  - **Final project**: [Instructions](/assets/Tasks/Final_Inst2.pdf).   
 
 
 ### Additional Resources
