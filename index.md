@@ -108,7 +108,7 @@ The course integrates discussions about research design and data analysis with t
   - Slides: [Prediction vol. III](/assets/Week7/wk7_deck.pdf).
   - R Code: [Week7](/assets/Week7/Code_week8.R).
   - Data: [WomenLeaders](/assets/Week7/women.csv).
-  - Data: [Aussie ForiegnAid](/assets/Week7/AussieData_JEPS2021.dta).
+  - Data: [Aussie ForeignAid](/assets/Week7/AussieData_JEPS2021.dta).
   - Data: [NATO Spending I](/assets/Week7/matt_defspend.xlsx).
   - Data: [NATO Spending II](/assets/Week7/defense_spending.dta).
 
