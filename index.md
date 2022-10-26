@@ -112,4 +112,13 @@ The course integrates discussions about research design and data analysis with t
   - Data: [NATO Spending I](/assets/Week7/matt_defspend.xlsx).
   - Data: [NATO Spending II](/assets/Week7/defense_spending.dta).
 
+### Week 8 (10.25.2022)  
+
+  - Required Reading: QSS, Chapter 6 (pp. 242-277, sections 6.1-6.2).
+  - Recommended reading: Edry, J., Johnson, J. and Ashley Leeds. (2021). ["Threats at Home and Abroad: Interstate War, Civil War, and Alliance Formation."](https://doi.org/10.1017/S0020818321000151) *International Organization*, 75(3), 837-957.
+  - Slides: [Probability vol. I](/assets/Week8/wk9_slides.pdf).
+  - R COde: [Week8](/assets/Week8/Code_week9.R).
+  - Data: [Ags](/assets/Week8/Ags_Data.xlsx).
+  - Data: [Alliances](/assets/Week8/atop5_0m.dta).
+
 
