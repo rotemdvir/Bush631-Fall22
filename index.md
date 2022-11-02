@@ -117,8 +117,17 @@ The course integrates discussions about research design and data analysis with t
   - Required Reading: QSS, Chapter 6 (pp. 242-277, sections 6.1-6.2).
   - Recommended reading: Edry, J., Johnson, J. and Ashley Leeds. (2021). ["Threats at Home and Abroad: Interstate War, Civil War, and Alliance Formation."](https://doi.org/10.1017/S0020818321000151) *International Organization*, 75(3), 837-957.
   - Slides: [Probability vol. I](/assets/Week8/wk9_slides.pdf).
-  - R COde: [Week8](/assets/Week8/Code_week9.R).
+  - R Code: [Week8](/assets/Week8/Code_week9.R).
   - Data: [Ags](/assets/Week8/Ags_Data.xlsx).
   - Data: [Alliances](/assets/Week8/atop5_0m.dta).
+
+### Week 9 (11.01.2022)  
+
+  - Required Reading: QSS, Chapter 6 (pp. 277-313, sections 6.3-6.5).
+  - Recommended reading: Horowitz, M., McDermott, R., and Alan Stam. (2005). ["Leader age, regime type, and violent international relations."](https://doi.org/10.1177/0022002705279469), *Journal of Conflict Resolution*, 49(5), 661-685.
+  - Slides: [Probability vol. II](/assets/Week9/wk10_slides.pdf).
+  - R Code: [Week9](/assets/Week9/Code_week10.R).
+  - Data: [Tidyverse Data](/assets/Week9/Data_ClassTask1.dta).
+  - Data: [Leaders](/assets/Week9/LeaderDataset.dta).
 
 
