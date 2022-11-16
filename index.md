@@ -139,6 +139,14 @@ of Foreign Relations website*.
   - Slides: [Uncertainty vol. I](/assets/Week10/wk11_slides.pdf).
   - R Code: [Week10](/assets/Week10/Code_week11.R).
 
+### Week 11 (11.15.2022)  
+
+  - Required Reading: QSS, Chapter 7 (pp. 342-369, section 7.2).
+  - Recommended reading: Scotto, T. J., & Reifler, J. (2017). ["Getting tough with the dragon? The comparative correlates of foreign policy attitudes toward China in the United States and UK."](https://doi.org/10.1093/irap/lcw008) *International Relations of the Asia-Pacific*, 17(2), 265-299.
+  - Slides: [Uncertainty vol. II](/assets/Week11/wk12_slides.pdf).
+  - R Code: [Week11](/assets/Week11/Code_week12.R).
+
+
 
 
 
