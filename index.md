@@ -146,6 +146,15 @@ of Foreign Relations website*.
   - Slides: [Uncertainty vol. II](/assets/Week11/wk12_slides.pdf).
   - R Code: [Week11](/assets/Week11/Code_week12.R).
 
+### Week 12 (11.22.2022)  
+
+  - Required reading: QSS, Chapter 7 (pp. 370-390, section 7.3).
+  - Recommended reading: Miller, S. (2014). "Reading a Regression Table: A Guide for Students", *Steven Miller blog* [(Link to blogpost)](http://svmiller.com/blog/2014/08/reading-a-regression-table-a-guide-for-students/)
+  - Slides: [Uncertainty vol. III](/assets/Week12/wk13_slides.pdf).
+  - R Code: [Week12](/assets/Week12/Code_week13.R).
+
+
+
 
 
 
